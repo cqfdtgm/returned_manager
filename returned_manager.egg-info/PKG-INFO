@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: returned-manager
+Version: 0.4
+Summary: a distributed system used "multiprocess.managers" , and can get returned values
+Home-page: http://github.com/cqfdtgm/returned_manager
+Author: cqfdtgm
+Author-email: guangge1977@189.cn
+License: BSD license
+Description: UNKNOWN
+Platform: all

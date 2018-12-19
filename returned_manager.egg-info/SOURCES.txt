@@ -1,0 +1,11 @@
+README.rst
+setup.py
+returned_manager/__init__.py
+returned_manager/server.py
+returned_manager/test.py
+returned_manager/worker.py
+returned_manager.egg-info/PKG-INFO
+returned_manager.egg-info/SOURCES.txt
+returned_manager.egg-info/dependency_links.txt
+returned_manager.egg-info/not-zip-safe
+returned_manager.egg-info/top_level.txt
